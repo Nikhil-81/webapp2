@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "haider",
+      "id": 1
+    },
+    {
+      "name": "summer ware",
+      "city": "akola",
+      "id": 2
+    },
+    {
+      "name": "pooja",
+      "city": "nagpur",
+      "id": 3
+    }
+  ]
+}
